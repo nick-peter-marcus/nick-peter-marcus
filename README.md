@@ -11,16 +11,13 @@ More specifically, I am a qualified data analyst/scientist with a graduate degre
 <br><br>
 
 ## 💪 Skills
-🔭 **Data Handling**
-<br>
+### 🔭 Data Handling
 - Pandas **|** Numpy **|** Web Scraping **|** Regular Expression
 
-🧠 **Machine Learning**
-<br>
+### 🧠 Machine Learning
 - Random Forest **|** Decision Trees **|** XGBoost **|** Shapley Value **|** SVM **|** PCA **|** Cluster Analysis
     
-📊 **Data Visualization**
-<br>
+### 📊 Data Visualization
 - Matplotlib **|** Seaborn **|** Plotly **|** Streamlit
 <br><br>
 
