@@ -7,21 +7,17 @@ More specifically, I am a qualified data analyst/scientist with a graduate degre
 
 
 ## 💻 Languages
-* Python
-* R
-* Stata
-* SPSS
-* SQL
-* HTML/CSS/JavaScript
+- **Python&emsp;|&emsp;R&emsp;|&emsp;Stata&emsp;|&emsp;SPSS&emsp;|&emsp;SQL&emsp;|&emsp;HTML/CSS/JavaScript**
+<br><br>
 
 ## 💪 Skills
-🔭**Data Handling**
+🔭 **Data Handling**
 - Pandas
 - Numpy
 - Web Scraping
 - Regular Expression
 
-🧠**Machine Learning**
+🧠 **Machine Learning**
 - Regression Analyses
 - Random Forest
 - Decision Trees
@@ -30,17 +26,17 @@ More specifically, I am a qualified data analyst/scientist with a graduate degre
 - Principal Component Analysis
 - Cluster Analysis
     
-📊**Data Visualization**
+📊 **Data Visualization**
 - Matplotlib
 - Seaborn
 - Plotly
 - Streamlit
 
-🧑‍🎓**Certificates**
+🧑‍🎓 **Certificates**
 - [Machine Learning Specialization, _University of Washington_](https://coursera.org/share/0397967b1f8a24857f47cb356cc49cba)
 - [SQL for Data Science, _University of California, Davis_](https://coursera.org/share/a074f48e20659e44a430ac23a3249063)
 - [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/nickmarcus-2357/credentials/93bbef105bc92043)
-
+<br><br>
 
 ## ❤️ Interests
 - Coding (obviously)
