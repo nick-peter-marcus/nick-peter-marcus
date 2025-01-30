@@ -1,13 +1,13 @@
 # Nick Marcus
 
 ## 🤖 About Me
-TL;DR: I am a data enthusiast that loves coding. 
+**TL;DR**: I am a data enthusiast that loves coding. 
 
 More specifically, I am a qualified data analyst/scientist with a graduate degree in economics and 5 years of work experience in data collection, wrangling, and analysis in the field of market and consumer research. I am passionate about coding as well as developing and implementing tools for regression-based and machine learning statistical analyses.
 
 
 ## 💻 Languages
-- **Python&emsp;|&emsp;R&emsp;|&emsp;Stata&emsp;|&emsp;SPSS&emsp;|&emsp;SQL&emsp;|&emsp;HTML/CSS/JavaScript**
+**Python&emsp;|&emsp;R&emsp;|&emsp;Stata&emsp;|&emsp;SPSS&emsp;|&emsp;SQL&emsp;|&emsp;HTML/CSS/JavaScript**
 <br><br>
 
 ## 💪 Skills
