@@ -32,11 +32,11 @@ More specifically, I am a qualified data analyst/scientist with a graduate degre
 
 ## ❤️ Interests
 - Coding (obviously) **|** Market Research **|** Food **|** Guitars **|** Technology
-
+<br><br>
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/nick-peter-marcus/)
-
+<br><br>
 
 ## ⭐ Github Stats
 ![nick-peter-marcus's Github stats](https://github-readme-stats.vercel.app/api?username=nick-peter-marcus&show_icons=true)
